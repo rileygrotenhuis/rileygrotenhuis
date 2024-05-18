@@ -4,6 +4,8 @@ Software Engineer at <strong>Midwestern Interactive</strong>. I also enjoy creat
 
 Checkout my [personal website](https://www.rileygrotenhuis) to learn more about myself and some of the projects I've been working on!
 
+<br />
+
 <strong>Here's some of the technologies I've been working with lately</strong>
 
 <div>
