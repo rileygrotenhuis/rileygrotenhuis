@@ -2,7 +2,7 @@
 
 Software Engineer at <strong>Midwestern Interactive</strong>. I also enjoy creating developer tools and am currently building [Corvesive](https://www.corvesive.com) to help provide budgeting solutions.
 
-Checkout my [personal website](https://www.rileygrotenhuis) to learn more about myself and some of the projects I've been working on!
+Checkout my [personal website](https://www.rileygrotenhuis.com) to learn more about myself and some of the projects I've been working on!
 
 <br />
 
